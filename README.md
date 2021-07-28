@@ -13,3 +13,13 @@ It contains only numerical input variables which are the result of a PCA transfo
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 
 The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection. More details on current and past projects on related topics are available on http://mlg.ulb.ac.be/BruFence and http://mlg.ulb.ac.be/ARTML)
+
+
+# Credit Card Fraud Detection using personal Date which was Created in Excel sheet.
+
+
+
+# Credit Card Fraud Detection jupter notebook 
+https://github.com/narravishal/Credit-card-fraud-detection-using-SMOTE/blob/main/CREDITCARDFRAUD_ML.ipynb
+
+
